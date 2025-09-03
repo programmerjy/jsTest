@@ -1,0 +1,23 @@
+{
+  "name": "js-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programmerjy/jsTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programmerjy/jsTest/issues"
+  },
+  "homepage": "https://github.com/programmerjy/jsTest#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0"
+  }
+}
